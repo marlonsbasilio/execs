@@ -1,0 +1,15 @@
+3) O valor final da variavel SOMA sera 77
+
+4.a) 9
+4.b) 128
+4.c) 49
+4.d) 100
+4.e) 13
+4.f) 200
+
+5) Primeiro nomearia os interrruptores como A, B e C. Depois, ligaria o interruptor A e deixaria ligado por alguns minutos e depois desligaria.
+Em seguida ligaria o interruptor B e manteria o interruptor C desligado.
+Após isso, iria em uma das salas verificar as lampadas.
+Se a lampada estivesse desligada e fria, então é o interruptor C. Se estivesse desligada e quente, entao é o interruptor A.Se estivesse ligada, entao é o interruptor B.
+Após descobrir qual interruptor era a primeira sala, iria para a proxima sala e repetiria o mesmo processo excluindo o interruptor que ja foi descoberto.
+Descobrindo qual o interruptor da segunda sala, não é necessário ir para a terceira sala e assim utilizei apenas 2 idas.
